@@ -1,0 +1,7 @@
+C:\Users\william.dresch\source\repos\Ativida08\Ativida08\bin\Debug\Ativida08.exe.config
+C:\Users\william.dresch\source\repos\Ativida08\Ativida08\bin\Debug\Ativida08.exe
+C:\Users\william.dresch\source\repos\Ativida08\Ativida08\bin\Debug\Ativida08.pdb
+C:\Users\william.dresch\source\repos\Ativida08\Ativida08\obj\Debug\Ativida08.csproj.AssemblyReference.cache
+C:\Users\william.dresch\source\repos\Ativida08\Ativida08\obj\Debug\Ativida08.csproj.CoreCompileInputs.cache
+C:\Users\william.dresch\source\repos\Ativida08\Ativida08\obj\Debug\Ativida08.exe
+C:\Users\william.dresch\source\repos\Ativida08\Ativida08\obj\Debug\Ativida08.pdb
